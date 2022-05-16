@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_crash_todolist"]=self["webpackChunkvue_crash_todolist"]||[]).push([[443],{4334:function(t,u,s){s.r(u),s.d(u,{default:function(){return d}});var o=s(3396);const e={class:"about"},n=(0,o._)("h1",null,"About",-1),r=(0,o._)("p",null," This is a TodoList app v1.0.0. It is part of the Vue crash course on Youtube! ",-1),a=[n,r];function c(t,u){return(0,o.wg)(),(0,o.iD)("div",e,a)}var i=s(89);const l={},h=(0,i.Z)(l,[["render",c]]);var d=h}}]);
+//# sourceMappingURL=about.b5583168.js.map
